@@ -1,11 +1,7 @@
-<h1 align="center">Hi 👋, I'm Vinod Narashetti</h1>
-<h3 align="center">Passionate Full-Stack Developer Turning Concepts into Reality</h3>
+# Hi 👋, I'm Vinod Narashetti
+### Passionate Full-Stack Developer Turning Concepts into Reality
 
-<p align="center"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=vinu8284&theme=onedark&margin-w=15&row=2&column=4" alt="vinu8284" />
-  </a> 
-</p>
+![Profile Picture](./github-header-image.png)
 
 - 🔭 Currently crafting **Real Time Watch Website with WebSockets**
 - 🌱 Mastering **MERN Stack & DevOps (Docker, Kubernetes, Jenkins)**
@@ -14,50 +10,43 @@
 - 📫 Reach me: **vinodnarashetti1@gmail.com**
 - ⚡ Fun fact: **I built a Mars weather app before realizing NASA's API was for Earth!**
 
-<h3 align="center">✨ Connect With Me ✨</h3>
+---
 
-<p align="center">
-  <a href="https://linkedin.com/in/vinodnarashetti" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="80" height="80" />
-  </a>
-  <a href="https://codesandbox.com/vinodnarashetti1" target="_blank">
-    <img src="https://skillicons.dev/icons?i=codesandbox" alt="CodeSandbox" width="80" height="80" />
-  </a>
-  <a href="https://instagram.com/vinod.narashetti" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" width="80" height="80" />
-  </a>
-  <a href="https://www.youtube.com/c/creativecorner" target="_blank">
-    <img src="https://skillicons.dev/icons?i=youtube" alt="YouTube" width="80" height="80" />
-  </a>
-</p>
+### ✨ Connect With Me ✨
 
-<h3 align="center">🚀 Tech Stack 🚀</h3>
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/vinodnarashetti)
+[![CodeSandbox](https://skillicons.dev/icons?i=codesandbox)](https://codesandbox.com/vinodnarashetti1)
+[![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/vinod.narashetti)
+[![YouTube](https://skillicons.dev/icons?i=youtube)](https://www.youtube.com/c/creativecorner)
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css" alt="HTML5 CSS3" width="160" height="80" />
-  <img src="https://skillicons.dev/icons?i=js,ts" alt="JavaScript TypeScript" width="160" height="80" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=react,next" alt="React Next.js" width="160" height="80" />
-  <img src="https://skillicons.dev/icons?i=nodejs,express" alt="Node.js Express" width="160" height="80" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql" alt="MongoDB MySQL" width="160" height="80" />
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes" alt="Docker Kubernetes" width="160" height="80" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=git,github" alt="Git GitHub" width="160" height="80" />
-  <img src="https://skillicons.dev/icons?i=jenkins,aws" alt="Jenkins AWS" width="160" height="80" />
-</p>
+---
 
-<h3 align="center">📊 GitHub Analytics 📊</h3>
+### 🚀 Tech Stack 🚀
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vinu8284&show_icons=true&theme=radical&count_private=true" alt="Stats" width="400" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vinu8284&theme=radical" alt="Streak" width="400" />
-</p>
+![HTML5](https://skillicons.dev/icons?i=html,css)
+![JavaScript](https://skillicons.dev/icons?i=js,ts)
+![React](https://skillicons.dev/icons?i=react,next)
+![Node.js](https://skillicons.dev/icons?i=nodejs,express)
+![MongoDB & MySQL](https://skillicons.dev/icons?i=mongodb,mysql)
+![Docker & Kubernetes](https://skillicons.dev/icons?i=docker,kubernetes)
+![Git & GitHub](https://skillicons.dev/icons?i=git,github)
+![Jenkins & AWS](https://skillicons.dev/icons?i=jenkins,aws)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinu8284&layout=compact&theme=radical&langs_count=8" alt="Top Langs" width="400" />
-</p>
+---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=vinu8284&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</div>
+### 📊 GitHub Analytics 📊
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vinu8284&show_icons=true&theme=radical&count_private=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vinu8284&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vinu8284&layout=compact&theme=radical&langs_count=8)
+
+---
+
+### 📝 Latest GitHub Activity
+
+![GitHub Activity](https://github-readme-activity-graph.cyclic.app/graph?username=vinu8284&bg_color=ffffff&color=36b7f0&line=36b7f0&point=36b7f0&area=true&area_color=36b7f0&hide_border=true)
+
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=vinu8284&label=Profile%20views&color=0e75b6&style=flat)
